@@ -56,20 +56,6 @@ This work is based on and supported by the publication:
 
 ---
 
-## 📂 Repository Structure
-
-```
-4D-LSM-Segmentation/
-│── data/                 # Sample datasets or links
-│── notebooks/            # Preprocessing & analysis notebooks
-│── src/                  # Core reconstruction and segmentation code
-│── results/              # Visualizations, segmentation masks, metrics
-│── requirements.txt      # Dependencies
-│── README.md             # Documentation
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
