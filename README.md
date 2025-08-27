@@ -8,7 +8,10 @@
 ---
 
 ## 📌 Project Overview
-This project focuses on **4D light-sheet fluorescence microscopy (LSFM)** for the reconstruction and segmentation of cardiac nuclei in zebrafish larvae. By integrating **parallel computing algorithms** with a **3D U-Net segmentation model**, the workflow enables high-resolution, high-speed analysis of myocardial mechanics. The approach significantly enhances visualization of cardiac function and allows efficient large-scale analysis of cellular dynamics.
+This project focuses on **4D light-sheet fluorescence microscopy (LSFM)** for the reconstruction and segmentation of cardiac nuclei in zebrafish larvae. By integrating **parallel computing algorithms** with a **3D U-Net segmentation model**, the workflow enables high-resolution, high-speed analysis of myocardial mechanics. The approach significantly enhances visualization of cardiac function and allows efficient large-scale analysis of cellular dynamics.  
+
+This work is based on and supported by the publication:  
+**“4D Light-sheet imaging and interactive analysis of cardiac contractility in zebrafish larvae”** – *APL Bioengineering, 2023* ([DOI: 10.1063/5.0153214](https://doi.org/10.1063/5.0153214))【30†source】.
 
 ---
 
@@ -101,7 +104,12 @@ python src/segment.py --input results/reconstructed.nii.gz
 ---
 
 ## 🙌 Acknowledgements
-This work was conducted at the **Ding Lab, University of Texas at Dallas**, with contributions to imaging, algorithm development, and analysis from the collaborative research team【30†source】.
+This work was conducted at the **Ding Lab, University of Texas at Dallas**, with contributions to imaging, algorithm development, and analysis from the collaborative research team.  
+
+For reference, please cite:  
+> X. Zhang, M. Almasian, S. Hassan, R. Jotheesh, V. A. Kadam, et al.,  
+> *4D Light-sheet imaging and interactive analysis of cardiac contractility in zebrafish larvae*, APL Bioengineering 7, 026112 (2023).  
+> DOI: [10.1063/5.0153214](https://doi.org/10.1063/5.0153214)
 
 ---
 
