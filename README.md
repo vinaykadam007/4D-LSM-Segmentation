@@ -56,31 +56,6 @@ This work is based on and supported by the publication:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8+  
-- PyTorch / TensorFlow  
-- NumPy, OpenCV, Matplotlib  
-- CUDA-enabled GPU for parallel training/reconstruction  
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### Run Reconstruction
-```bash
-python src/reconstruct.py --input data/zebrafish_sample.lsm
-```
-
-### Run Segmentation
-```bash
-python src/segment.py --input results/reconstructed.nii.gz
-```
-
----
-
 ## 📌 Future Work
 
 - Extend segmentation to multi-channel fluorescence for endothelial and fibroblast tracking.  
