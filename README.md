@@ -54,6 +54,10 @@ This work is based on and supported by the publication:
 
 **Key Insight:** By combining parallel computing with deep learning, this pipeline enables **scalable, high-throughput cardiac imaging analysis** that was previously infeasible in standard biomedical imaging workflows.
 
+
+https://github.com/user-attachments/assets/4a5ada45-d725-4bc3-a8c8-af31574657a7
+
+
 ---
 
 ## 📌 Future Work
